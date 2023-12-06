@@ -14,4 +14,4 @@ a) Dentro do documento "PROTOCOLOS: UART - I2C - SPI - Serial communications.pdf
 
 b) Dentro do documento "PROTOCOLOS: UART - I2C - SPI - Serial communications.pdf", seção "Descritivo"
 
-c) [Link do vídeo no Youtube](https://youtu.be/25t6hHkPMUs)
+c) [Link do vídeo no Youtube](https://youtu.be/VG7P5S4T6b0)
